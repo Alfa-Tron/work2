@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="work" />
+        <module name="work4bd" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="t" target="11" />
+      <module name="untitled" target="17" />
+      <module name="w4t1" target="1.5" />
+      <module name="work4" target="11" />
+      <module name="work4bd" target="11" />
+      <module name="work4t1" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

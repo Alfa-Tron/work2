@@ -1,0 +1,101 @@
+[ {
+  "name" : "Guava",
+  "maxPrice" : 98.88,
+  "minPrice" : 5.19,
+  "avgPrice" : 50.66866666666667
+}, {
+  "name" : "Blackberry",
+  "maxPrice" : 99.46,
+  "minPrice" : 5.44,
+  "avgPrice" : 50.55441767068273
+}, {
+  "name" : "Cherry",
+  "maxPrice" : 99.87,
+  "minPrice" : 5.17,
+  "avgPrice" : 55.171544715447155
+}, {
+  "name" : "Papaya",
+  "maxPrice" : 99.8,
+  "minPrice" : 5.48,
+  "avgPrice" : 50.480150943396225
+}, {
+  "name" : "Peach",
+  "maxPrice" : 99.76,
+  "minPrice" : 5.1,
+  "avgPrice" : 53.059792387543254
+}, {
+  "name" : "Mango",
+  "maxPrice" : 99.62,
+  "minPrice" : 5.12,
+  "avgPrice" : 53.1275
+}, {
+  "name" : "Kiwifruit",
+  "maxPrice" : 99.4,
+  "minPrice" : 5.18,
+  "avgPrice" : 54.462028985507246
+}, {
+  "name" : "Apricot",
+  "maxPrice" : 99.95,
+  "minPrice" : 5.29,
+  "avgPrice" : 52.624140969162994
+}, {
+  "name" : "Boysenberry",
+  "maxPrice" : 99.83,
+  "minPrice" : 5.02,
+  "avgPrice" : 53.097877697841724
+}, {
+  "name" : "Orange",
+  "maxPrice" : 99.68,
+  "minPrice" : 5.68,
+  "avgPrice" : 51.47466960352423
+}, {
+  "name" : "Banana",
+  "maxPrice" : 99.97,
+  "minPrice" : 5.04,
+  "avgPrice" : 52.67517374517375
+}, {
+  "name" : "Cranberry",
+  "maxPrice" : 99.41,
+  "minPrice" : 5.08,
+  "avgPrice" : 51.975407725321894
+}, {
+  "name" : "Plum",
+  "maxPrice" : 99.46,
+  "minPrice" : 5.41,
+  "avgPrice" : 57.42391129032258
+}, {
+  "name" : "Apple",
+  "maxPrice" : 99.27,
+  "minPrice" : 5.15,
+  "avgPrice" : 50.927547892720305
+}, {
+  "name" : "Grapes",
+  "maxPrice" : 98.97,
+  "minPrice" : 5.26,
+  "avgPrice" : 50.11375464684015
+}, {
+  "name" : "Strawberry",
+  "maxPrice" : 99.71,
+  "minPrice" : 6.09,
+  "avgPrice" : 55.532734375
+}, {
+  "name" : "Blueberry",
+  "maxPrice" : 99.6,
+  "minPrice" : 5.14,
+  "avgPrice" : 52.39439516129032
+}, {
+  "name" : "Raspberry",
+  "maxPrice" : 98.84,
+  "minPrice" : 5.42,
+  "avgPrice" : 54.00253731343284
+}, {
+  "name" : "Pineapple",
+  "maxPrice" : 99.86,
+  "minPrice" : 5.56,
+  "avgPrice" : 53.375443548387096
+}, {
+  "name" : "Melon",
+  "maxPrice" : 99.72,
+  "minPrice" : 5.33,
+  "avgPrice" : 53.350760869565214
+} ]

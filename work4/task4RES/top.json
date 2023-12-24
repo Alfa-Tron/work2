@@ -1,0 +1,11 @@
+{
+  "id" : 12,
+  "count" : 0,
+  "name" : "elegant serum",
+  "price" : 13.91,
+  "quantity" : 715,
+  "category" : "cosmetics",
+  "fromCity" : "Кадакес",
+  "isAvailable" : true,
+  "views" : 87815
+}

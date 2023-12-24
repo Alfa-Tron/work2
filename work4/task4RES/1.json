@@ -1,0 +1,101 @@
+[ {
+  "id" : 119,
+  "count" : 1,
+  "name" : "tasteful level",
+  "price" : 36.65,
+  "quantity" : 791,
+  "category" : "tools",
+  "fromCity" : "Сараево",
+  "isAvailable" : true,
+  "views" : 39023
+}, {
+  "id" : 45,
+  "count" : 1,
+  "name" : "amazing trim",
+  "price" : 50.47,
+  "quantity" : 977,
+  "category" : "tools",
+  "fromCity" : "Сория",
+  "isAvailable" : true,
+  "views" : 34736
+}, {
+  "id" : 60,
+  "count" : 1,
+  "name" : "stylish deodorant",
+  "price" : 89.38,
+  "quantity" : 620,
+  "category" : "cosmetics",
+  "fromCity" : "София",
+  "isAvailable" : true,
+  "views" : 10295
+}, {
+  "id" : 168,
+  "count" : 1,
+  "name" : "beautiful raspberry",
+  "price" : 84.9416,
+  "quantity" : 1038,
+  "category" : "fruit",
+  "fromCity" : "Ташкент",
+  "isAvailable" : true,
+  "views" : 37967
+}, {
+  "id" : 5,
+  "count" : 1,
+  "name" : "amazing scaffolding",
+  "price" : 56.23,
+  "quantity" : 618,
+  "category" : "tools",
+  "fromCity" : "Сория",
+  "isAvailable" : false,
+  "views" : 796
+}, {
+  "id" : 88,
+  "count" : 1,
+  "name" : "pleasant bubble bath",
+  "price" : 61.03,
+  "quantity" : 571,
+  "category" : "cosmetics",
+  "fromCity" : "Самора",
+  "isAvailable" : true,
+  "views" : 7855
+}, {
+  "id" : 8,
+  "count" : 0,
+  "name" : "Epson Expression Home XP",
+  "price" : 58477.0,
+  "quantity" : 37,
+  "category" : null,
+  "fromCity" : "Пласенсия",
+  "isAvailable" : false,
+  "views" : 33270
+}, {
+  "id" : 7,
+  "count" : 0,
+  "name" : "Logitech Wireless Keyboard",
+  "price" : 28710.0,
+  "quantity" : 49,
+  "category" : null,
+  "fromCity" : "Камбадос",
+  "isAvailable" : false,
+  "views" : 73186
+}, {
+  "id" : 3,
+  "count" : 0,
+  "name" : "sublime nail file",
+  "price" : 23.32,
+  "quantity" : 868,
+  "category" : "cosmetics",
+  "fromCity" : "София",
+  "isAvailable" : true,
+  "views" : 75822
+}, {
+  "id" : 11,
+  "count" : 0,
+  "name" : "WD Blue HDD",
+  "price" : 10775.0,
+  "quantity" : 38,
+  "category" : null,
+  "fromCity" : "Краков",
+  "isAvailable" : false,
+  "views" : 40660
+} ]

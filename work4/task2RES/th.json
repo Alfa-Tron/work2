@@ -1,0 +1,1650 @@
+[ {
+  "name" : {
+    "name" : "Тоннель 30",
+    "street" : "Московская улица 30",
+    "city" : "Санхенхо",
+    "zipcode" : 627796,
+    "floors" : 3,
+    "year" : 1797,
+    "parking" : true,
+    "prob_price" : 217230333,
+    "views" : 23654
+  },
+  "rating" : 2.8,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 5,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Лифт 59",
+    "street" : "Минская улица 22",
+    "city" : "Санкт-Петербург",
+    "zipcode" : 279466,
+    "floors" : 6,
+    "year" : 2018,
+    "parking" : false,
+    "prob_price" : 42577717,
+    "views" : 3902
+  },
+  "rating" : 2.3,
+  "convenience" : 1,
+  "security" : 2,
+  "functionality" : 3,
+  "comment" : "У этого здания отличная архитектура."
+}, {
+  "name" : {
+    "name" : "Парк 16",
+    "street" : "Вроцлавская улица 21",
+    "city" : "Ташкент",
+    "zipcode" : 768166,
+    "floors" : 2,
+    "year" : 1998,
+    "parking" : false,
+    "prob_price" : 910974943,
+    "views" : 68112
+  },
+  "rating" : 3.6,
+  "convenience" : 3,
+  "security" : 2,
+  "functionality" : 2,
+  "comment" : "У этого здания отличная архитектура."
+}, {
+  "name" : {
+    "name" : "Эскалатор 93",
+    "street" : "Зимняя улица 69",
+    "city" : "Вильявисиоса",
+    "zipcode" : 865322,
+    "floors" : 9,
+    "year" : 1995,
+    "parking" : false,
+    "prob_price" : 744505066,
+    "views" : 91087
+  },
+  "rating" : 2.3,
+  "convenience" : 1,
+  "security" : 2,
+  "functionality" : 1,
+  "comment" : "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+}, {
+  "name" : {
+    "name" : "Верфь 31",
+    "street" : "Вроцлавская улица 17",
+    "city" : "Навалькарнеро",
+    "zipcode" : 259855,
+    "floors" : 7,
+    "year" : 1964,
+    "parking" : false,
+    "prob_price" : 609249257,
+    "views" : 90849
+  },
+  "rating" : 0.2,
+  "convenience" : 5,
+  "security" : 4,
+  "functionality" : 5,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Логово 62",
+    "street" : "Школьная улица 98",
+    "city" : "Мадрид",
+    "zipcode" : 472252,
+    "floors" : 9,
+    "year" : 1653,
+    "parking" : false,
+    "prob_price" : 897377674,
+    "views" : 38739
+  },
+  "rating" : 0.8,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Гнездо 84",
+    "street" : "Садовая улица 40",
+    "city" : "Вальядолид",
+    "zipcode" : 380749,
+    "floors" : 10,
+    "year" : 1708,
+    "parking" : false,
+    "prob_price" : 367691568,
+    "views" : 47956
+  },
+  "rating" : 0.1,
+  "convenience" : 3,
+  "security" : 5,
+  "functionality" : 4,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "ТЭЦ 23",
+    "street" : "Весенняя улица 97",
+    "city" : "Хихон",
+    "zipcode" : 222013,
+    "floors" : 4,
+    "year" : 1656,
+    "parking" : false,
+    "prob_price" : 889565773,
+    "views" : 20126
+  },
+  "rating" : 1.9,
+  "convenience" : 3,
+  "security" : 5,
+  "functionality" : 5,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Склад 16",
+    "street" : "Краковская улица 54",
+    "city" : "Рига",
+    "zipcode" : 220940,
+    "floors" : 8,
+    "year" : 1744,
+    "parking" : true,
+    "prob_price" : 917191827,
+    "views" : 94640
+  },
+  "rating" : 3.9,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 3,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Электростанция 69",
+    "street" : "Горная улица 76",
+    "city" : "София",
+    "zipcode" : 728329,
+    "floors" : 3,
+    "year" : 1847,
+    "parking" : true,
+    "prob_price" : 291104912,
+    "views" : 12776
+  },
+  "rating" : 2.8,
+  "convenience" : 2,
+  "security" : 3,
+  "functionality" : 4,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Порт 13",
+    "street" : "Петербургская улица 89",
+    "city" : "Ла-Корунья",
+    "zipcode" : 542596,
+    "floors" : 8,
+    "year" : 1741,
+    "parking" : true,
+    "prob_price" : 301779044,
+    "views" : 16007
+  },
+  "rating" : 1.2,
+  "convenience" : 5,
+  "security" : 5,
+  "functionality" : 1,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Академия 42",
+    "street" : "Вроцлавская улица 61",
+    "city" : "Бишкек",
+    "zipcode" : 199569,
+    "floors" : 10,
+    "year" : 1716,
+    "parking" : true,
+    "prob_price" : 453845177,
+    "views" : 55349
+  },
+  "rating" : 2.0,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 3,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Дуплянка 63",
+    "street" : "Парковая улица 73",
+    "city" : "Самора",
+    "zipcode" : 902991,
+    "floors" : 4,
+    "year" : 1957,
+    "parking" : false,
+    "prob_price" : 490433154,
+    "views" : 42566
+  },
+  "rating" : 2.3,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 5,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Улей 94",
+    "street" : "Центральная улица 92",
+    "city" : "Куэнка",
+    "zipcode" : 697701,
+    "floors" : 4,
+    "year" : 1759,
+    "parking" : true,
+    "prob_price" : 550481852,
+    "views" : 94939
+  },
+  "rating" : 4.4,
+  "convenience" : 4,
+  "security" : 5,
+  "functionality" : 4,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Овчарня 67",
+    "street" : "Садовая улица 57",
+    "city" : "Лас-Росас",
+    "zipcode" : 725019,
+    "floors" : 10,
+    "year" : 1774,
+    "parking" : false,
+    "prob_price" : 424716109,
+    "views" : 78167
+  },
+  "rating" : 2.8,
+  "convenience" : 1,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Паутинник 25",
+    "street" : "Вроцлавская улица 14",
+    "city" : "Тбилиси",
+    "zipcode" : 134919,
+    "floors" : 10,
+    "year" : 1842,
+    "parking" : true,
+    "prob_price" : 94271493,
+    "views" : 13397
+  },
+  "rating" : 4.1,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 4,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Верблюжатник 30",
+    "street" : "Полевая улица 94",
+    "city" : "Тудела",
+    "zipcode" : 852938,
+    "floors" : 3,
+    "year" : 1754,
+    "parking" : true,
+    "prob_price" : 366458592,
+    "views" : 30968
+  },
+  "rating" : 1.0,
+  "convenience" : 3,
+  "security" : 2,
+  "functionality" : 5,
+  "comment" : "Это великолепное здание!"
+}, {
+  "name" : {
+    "name" : "Пандус 35",
+    "street" : "Петербургская улица 90",
+    "city" : "Севилья",
+    "zipcode" : 193192,
+    "floors" : 5,
+    "year" : 1605,
+    "parking" : true,
+    "prob_price" : 539499641,
+    "views" : 71315
+  },
+  "rating" : 2.1,
+  "convenience" : 4,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Курятник 51",
+    "street" : "Минская улица 12",
+    "city" : "Трухильо",
+    "zipcode" : 317156,
+    "floors" : 5,
+    "year" : 1907,
+    "parking" : false,
+    "prob_price" : 39848027,
+    "views" : 52318
+  },
+  "rating" : 4.8,
+  "convenience" : 1,
+  "security" : 3,
+  "functionality" : 2,
+  "comment" : "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+}, {
+  "name" : {
+    "name" : "Дуплянка 85",
+    "street" : "Садовая улица 43",
+    "city" : "Рига",
+    "zipcode" : 952331,
+    "floors" : 6,
+    "year" : 1766,
+    "parking" : true,
+    "prob_price" : 164678315,
+    "views" : 86707
+  },
+  "rating" : 2.7,
+  "convenience" : 4,
+  "security" : 3,
+  "functionality" : 5,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Автомойка 76",
+    "street" : "Московская улица 19",
+    "city" : "Краков",
+    "zipcode" : 981756,
+    "floors" : 9,
+    "year" : 1851,
+    "parking" : true,
+    "prob_price" : 971160802,
+    "views" : 41647
+  },
+  "rating" : 2.4,
+  "convenience" : 4,
+  "security" : 2,
+  "functionality" : 5,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Больница 12",
+    "street" : "Варшавская улица 68",
+    "city" : "Бургос",
+    "zipcode" : 368400,
+    "floors" : 3,
+    "year" : 1931,
+    "parking" : false,
+    "prob_price" : 483484376,
+    "views" : 40347
+  },
+  "rating" : 0.1,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 1,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Мануфактура 89",
+    "street" : "Солнечная улица 26",
+    "city" : "Виго",
+    "zipcode" : 909525,
+    "floors" : 2,
+    "year" : 1620,
+    "parking" : true,
+    "prob_price" : 954412413,
+    "views" : 57969
+  },
+  "rating" : 1.0,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 5,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Страусятник 52",
+    "street" : "Парковая улица 78",
+    "city" : "Ташкент",
+    "zipcode" : 260817,
+    "floors" : 6,
+    "year" : 1698,
+    "parking" : true,
+    "prob_price" : 376122744,
+    "views" : 38352
+  },
+  "rating" : 0.3,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 4,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Ресторан 74",
+    "street" : "Спортивная улица 73",
+    "city" : "Алькала-де-Энарес",
+    "zipcode" : 562422,
+    "floors" : 1,
+    "year" : 1798,
+    "parking" : false,
+    "prob_price" : 140272894,
+    "views" : 36109
+  },
+  "rating" : 4.5,
+  "convenience" : 3,
+  "security" : 3,
+  "functionality" : 3,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Лестница 83",
+    "street" : "Петербургская улица 97",
+    "city" : "Ереван",
+    "zipcode" : 973679,
+    "floors" : 8,
+    "year" : 1667,
+    "parking" : false,
+    "prob_price" : 640785020,
+    "views" : 1205
+  },
+  "rating" : 4.2,
+  "convenience" : 4,
+  "security" : 3,
+  "functionality" : 4,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Кафе 87",
+    "street" : "Киевская улица 27",
+    "city" : "Сьюдад-Реаль",
+    "zipcode" : 372402,
+    "floors" : 5,
+    "year" : 1818,
+    "parking" : true,
+    "prob_price" : 843331382,
+    "views" : 45458
+  },
+  "rating" : 2.7,
+  "convenience" : 2,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Улей 14",
+    "street" : "Парковая улица 48",
+    "city" : "Монсон",
+    "zipcode" : 589756,
+    "floors" : 5,
+    "year" : 1615,
+    "parking" : false,
+    "prob_price" : 692450707,
+    "views" : 3886
+  },
+  "rating" : 2.6,
+  "convenience" : 1,
+  "security" : 4,
+  "functionality" : 4,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Цирк 63",
+    "street" : "Речная улица 72",
+    "city" : "Мерида",
+    "zipcode" : 759578,
+    "floors" : 5,
+    "year" : 1859,
+    "parking" : true,
+    "prob_price" : 557735691,
+    "views" : 16516
+  },
+  "rating" : 3.9,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 4,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Ферма 7",
+    "street" : "Петербургская улица 88",
+    "city" : "Бланес",
+    "zipcode" : 594644,
+    "floors" : 8,
+    "year" : 1697,
+    "parking" : true,
+    "prob_price" : 395218195,
+    "views" : 54865
+  },
+  "rating" : 2.6,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 3,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Стадион 64",
+    "street" : "Садовая улица 41",
+    "city" : "Барселона",
+    "zipcode" : 173771,
+    "floors" : 3,
+    "year" : 1833,
+    "parking" : false,
+    "prob_price" : 656568111,
+    "views" : 39958
+  },
+  "rating" : 0.5,
+  "convenience" : 3,
+  "security" : 2,
+  "functionality" : 2,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Замок 46",
+    "street" : "Школьная улица 17",
+    "city" : "Сеговия",
+    "zipcode" : 291278,
+    "floors" : 8,
+    "year" : 2000,
+    "parking" : false,
+    "prob_price" : 996097813,
+    "views" : 34348
+  },
+  "rating" : 4.7,
+  "convenience" : 4,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Школа 1",
+    "street" : "Солнечная улица 85",
+    "city" : "Вильявисиоса",
+    "zipcode" : 512222,
+    "floors" : 1,
+    "year" : 1643,
+    "parking" : true,
+    "prob_price" : 704426559,
+    "views" : 78682
+  },
+  "rating" : 4.8,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 4,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Волчатник 89",
+    "street" : "Минская улица 37",
+    "city" : "Вроцлав",
+    "zipcode" : 635728,
+    "floors" : 10,
+    "year" : 1688,
+    "parking" : true,
+    "prob_price" : 171477630,
+    "views" : 8525
+  },
+  "rating" : 0.6,
+  "convenience" : 3,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+}, {
+  "name" : {
+    "name" : "Шале 48",
+    "street" : "Лесная улица 22",
+    "city" : "София",
+    "zipcode" : 696146,
+    "floors" : 6,
+    "year" : 1600,
+    "parking" : true,
+    "prob_price" : 738299527,
+    "views" : 42570
+  },
+  "rating" : 3.8,
+  "convenience" : 2,
+  "security" : 5,
+  "functionality" : 4,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+}, {
+  "name" : {
+    "name" : "Курятник 85",
+    "street" : "Минская улица 54",
+    "city" : "Бишкек",
+    "zipcode" : 115620,
+    "floors" : 9,
+    "year" : 1830,
+    "parking" : false,
+    "prob_price" : 144772461,
+    "views" : 64864
+  },
+  "rating" : 2.3,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 2,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Петля 100",
+    "street" : "Солнечная улица 34",
+    "city" : "Ла-Корунья",
+    "zipcode" : 197500,
+    "floors" : 3,
+    "year" : 2010,
+    "parking" : false,
+    "prob_price" : 184895324,
+    "views" : 77049
+  },
+  "rating" : 2.0,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 1,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Скворечник 89",
+    "street" : "Речная улица 27",
+    "city" : "Любляна",
+    "zipcode" : 810823,
+    "floors" : 5,
+    "year" : 1645,
+    "parking" : true,
+    "prob_price" : 438728937,
+    "views" : 94660
+  },
+  "rating" : 1.7,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "У этого здания отличная архитектура."
+}, {
+  "name" : {
+    "name" : "Отель 37",
+    "street" : "Школьная улица 40",
+    "city" : "Авилес",
+    "zipcode" : 810496,
+    "floors" : 6,
+    "year" : 1934,
+    "parking" : false,
+    "prob_price" : 710000811,
+    "views" : 53388
+  },
+  "rating" : 1.4,
+  "convenience" : 5,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Гнездо 16",
+    "street" : "Садовая улица 42",
+    "city" : "Фигерас",
+    "zipcode" : 254796,
+    "floors" : 1,
+    "year" : 1685,
+    "parking" : false,
+    "prob_price" : 834646307,
+    "views" : 78095
+  },
+  "rating" : 0.9,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 3,
+  "comment" : "Это великолепное здание!"
+}, {
+  "name" : {
+    "name" : "Церковь 50",
+    "street" : "Морская улица 79",
+    "city" : "Трухильо",
+    "zipcode" : 355703,
+    "floors" : 5,
+    "year" : 1675,
+    "parking" : false,
+    "prob_price" : 629968457,
+    "views" : 48694
+  },
+  "rating" : 4.0,
+  "convenience" : 4,
+  "security" : 5,
+  "functionality" : 1,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Мостки 78",
+    "street" : "Морская улица 3",
+    "city" : "Луго",
+    "zipcode" : 239542,
+    "floors" : 8,
+    "year" : 1829,
+    "parking" : true,
+    "prob_price" : 455278880,
+    "views" : 9192
+  },
+  "rating" : 0.1,
+  "convenience" : 5,
+  "security" : 5,
+  "functionality" : 4,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Бункер 57",
+    "street" : "Садовая улица 15",
+    "city" : "Мадрид",
+    "zipcode" : 975301,
+    "floors" : 2,
+    "year" : 1790,
+    "parking" : true,
+    "prob_price" : 535564594,
+    "views" : 41813
+  },
+  "rating" : 4.3,
+  "convenience" : 1,
+  "security" : 3,
+  "functionality" : 1,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Канализация 71",
+    "street" : "Вроцлавская улица 92",
+    "city" : "Виго",
+    "zipcode" : 667793,
+    "floors" : 9,
+    "year" : 1925,
+    "parking" : true,
+    "prob_price" : 991664175,
+    "views" : 40809
+  },
+  "rating" : 0.9,
+  "convenience" : 2,
+  "security" : 2,
+  "functionality" : 1,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Ламарий 79",
+    "street" : "Солнечная улица 12",
+    "city" : "Бланес",
+    "zipcode" : 511702,
+    "floors" : 4,
+    "year" : 1612,
+    "parking" : true,
+    "prob_price" : 174286710,
+    "views" : 42470
+  },
+  "rating" : 4.8,
+  "convenience" : 1,
+  "security" : 2,
+  "functionality" : 4,
+  "comment" : "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+}, {
+  "name" : {
+    "name" : "Док 30",
+    "street" : "Вроцлавская улица 82",
+    "city" : "Сория",
+    "zipcode" : 955815,
+    "floors" : 3,
+    "year" : 1635,
+    "parking" : true,
+    "prob_price" : 510979185,
+    "views" : 11235
+  },
+  "rating" : 1.9,
+  "convenience" : 2,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Университет 24",
+    "street" : "Летняя улица 93",
+    "city" : "Хихон",
+    "zipcode" : 354713,
+    "floors" : 2,
+    "year" : 1825,
+    "parking" : false,
+    "prob_price" : 739322962,
+    "views" : 99248
+  },
+  "rating" : 0.6,
+  "convenience" : 2,
+  "security" : 4,
+  "functionality" : 2,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Газопровод 16",
+    "street" : "Весенняя улица 68",
+    "city" : "Эль-Пуэрто-де-Санта-Мария",
+    "zipcode" : 844606,
+    "floors" : 4,
+    "year" : 1935,
+    "parking" : false,
+    "prob_price" : 54455442,
+    "views" : 95944
+  },
+  "rating" : 5.0,
+  "convenience" : 2,
+  "security" : 4,
+  "functionality" : 1,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Мостки 70",
+    "street" : "Парковая улица 18",
+    "city" : "Сьюдад-Реаль",
+    "zipcode" : 475346,
+    "floors" : 8,
+    "year" : 1934,
+    "parking" : true,
+    "prob_price" : 649963512,
+    "views" : 47166
+  },
+  "rating" : 2.2,
+  "convenience" : 2,
+  "security" : 2,
+  "functionality" : 4,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Тоннель 40",
+    "street" : "Речная улица 88",
+    "city" : "Сан-Себастьян",
+    "zipcode" : 601243,
+    "floors" : 2,
+    "year" : 1621,
+    "parking" : true,
+    "prob_price" : 554969975,
+    "views" : 38733
+  },
+  "rating" : 1.2,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Кладбище 46",
+    "street" : "Горная улица 30",
+    "city" : "Овьедо",
+    "zipcode" : 257279,
+    "floors" : 4,
+    "year" : 1769,
+    "parking" : false,
+    "prob_price" : 735221129,
+    "views" : 39528
+  },
+  "rating" : 3.1,
+  "convenience" : 4,
+  "security" : 2,
+  "functionality" : 3,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Дуплянка 30",
+    "street" : "Летняя улица 87",
+    "city" : "Хельсинки",
+    "zipcode" : 115469,
+    "floors" : 6,
+    "year" : 1742,
+    "parking" : true,
+    "prob_price" : 469773484,
+    "views" : 89985
+  },
+  "rating" : 4.1,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 1,
+  "comment" : "У этого здания отличная архитектура."
+}, {
+  "name" : {
+    "name" : "Страусятник 25",
+    "street" : "Осенняя улица 63",
+    "city" : "Бишкек",
+    "zipcode" : 990002,
+    "floors" : 1,
+    "year" : 1857,
+    "parking" : false,
+    "prob_price" : 649250952,
+    "views" : 65045
+  },
+  "rating" : 2.2,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 1,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Институт 47",
+    "street" : "Садовая улица 76",
+    "city" : "Мадрид",
+    "zipcode" : 136871,
+    "floors" : 3,
+    "year" : 1813,
+    "parking" : true,
+    "prob_price" : 304139351,
+    "views" : 60117
+  },
+  "rating" : 3.4,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 1,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Гнездо 28",
+    "street" : "Морская улица 61",
+    "city" : "София",
+    "zipcode" : 229540,
+    "floors" : 3,
+    "year" : 1813,
+    "parking" : true,
+    "prob_price" : 162697026,
+    "views" : 89408
+  },
+  "rating" : 0.7,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 2,
+  "comment" : "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+}, {
+  "name" : {
+    "name" : "Волчатник 91",
+    "street" : "Полевая улица 62",
+    "city" : "Льейда",
+    "zipcode" : 277522,
+    "floors" : 7,
+    "year" : 1624,
+    "parking" : false,
+    "prob_price" : 837841470,
+    "views" : 45391
+  },
+  "rating" : 2.0,
+  "convenience" : 3,
+  "security" : 4,
+  "functionality" : 3,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Нефтепровод 1",
+    "street" : "Осенняя улица 90",
+    "city" : "Осера",
+    "zipcode" : 423915,
+    "floors" : 5,
+    "year" : 1623,
+    "parking" : false,
+    "prob_price" : 409556608,
+    "views" : 94525
+  },
+  "rating" : 3.2,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 3,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+}, {
+  "name" : {
+    "name" : "Шале 62",
+    "street" : "Солнечная улица 94",
+    "city" : "Прага",
+    "zipcode" : 508057,
+    "floors" : 8,
+    "year" : 1928,
+    "parking" : false,
+    "prob_price" : 206449022,
+    "views" : 60173
+  },
+  "rating" : 0.7,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Свиноферма 8",
+    "street" : "Лесная улица 69",
+    "city" : "Эль-Пуэрто-де-Санта-Мария",
+    "zipcode" : 780636,
+    "floors" : 8,
+    "year" : 1861,
+    "parking" : true,
+    "prob_price" : 933541272,
+    "views" : 73382
+  },
+  "rating" : 2.6,
+  "convenience" : 5,
+  "security" : 4,
+  "functionality" : 1,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Гусятник 50",
+    "street" : "Зеленая улица 48",
+    "city" : "Семана",
+    "zipcode" : 212416,
+    "floors" : 7,
+    "year" : 2020,
+    "parking" : true,
+    "prob_price" : 538783079,
+    "views" : 21084
+  },
+  "rating" : 3.5,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 3,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+}, {
+  "name" : {
+    "name" : "Офис 88",
+    "street" : "Краковская улица 32",
+    "city" : "Вильявисиоса",
+    "zipcode" : 177084,
+    "floors" : 9,
+    "year" : 1742,
+    "parking" : true,
+    "prob_price" : 226251802,
+    "views" : 8023
+  },
+  "rating" : 1.7,
+  "convenience" : 1,
+  "security" : 2,
+  "functionality" : 2,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Гараж 50",
+    "street" : "Полевая улица 7",
+    "city" : "Бильбао",
+    "zipcode" : 722314,
+    "floors" : 4,
+    "year" : 1683,
+    "parking" : false,
+    "prob_price" : 792686917,
+    "views" : 61125
+  },
+  "rating" : 0.3,
+  "convenience" : 5,
+  "security" : 5,
+  "functionality" : 1,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Ресторан 42",
+    "street" : "Вроцлавская улица 3",
+    "city" : "Алькала-де-Энарес",
+    "zipcode" : 210301,
+    "floors" : 5,
+    "year" : 1986,
+    "parking" : true,
+    "prob_price" : 524133539,
+    "views" : 13486
+  },
+  "rating" : 4.2,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 3,
+  "comment" : "Это здание расположено в удобном месте, рядом с транспортными магистралями и инфраструктурой."
+}, {
+  "name" : {
+    "name" : "Путепровод 43",
+    "street" : "Зимняя улица 30",
+    "city" : "Вроцлав",
+    "zipcode" : 412589,
+    "floors" : 3,
+    "year" : 1846,
+    "parking" : false,
+    "prob_price" : 943179051,
+    "views" : 16305
+  },
+  "rating" : 4.0,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 4,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}, {
+  "name" : {
+    "name" : "Парк 55",
+    "street" : "Центральная улица 63",
+    "city" : "Касерес",
+    "zipcode" : 146805,
+    "floors" : 2,
+    "year" : 1815,
+    "parking" : false,
+    "prob_price" : 916838364,
+    "views" : 4026
+  },
+  "rating" : 2.0,
+  "convenience" : 2,
+  "security" : 3,
+  "functionality" : 1,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Утятник 21",
+    "street" : "Солнечная улица 1",
+    "city" : "Кишинев",
+    "zipcode" : 306452,
+    "floors" : 10,
+    "year" : 1893,
+    "parking" : true,
+    "prob_price" : 651989086,
+    "views" : 32029
+  },
+  "rating" : 4.1,
+  "convenience" : 5,
+  "security" : 2,
+  "functionality" : 5,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Кошара 38",
+    "street" : "Осенняя улица 24",
+    "city" : "Сараево",
+    "zipcode" : 536991,
+    "floors" : 3,
+    "year" : 1686,
+    "parking" : true,
+    "prob_price" : 800928812,
+    "views" : 61205
+  },
+  "rating" : 2.1,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 4,
+  "comment" : "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+}, {
+  "name" : {
+    "name" : "Склад 76",
+    "street" : "Морская улица 67",
+    "city" : "Вильнюс",
+    "zipcode" : 162152,
+    "floors" : 2,
+    "year" : 1977,
+    "parking" : false,
+    "prob_price" : 427276056,
+    "views" : 40728
+  },
+  "rating" : 2.6,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 2,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Кафе 90",
+    "street" : "Зимняя улица 23",
+    "city" : "Вроцлав",
+    "zipcode" : 659039,
+    "floors" : 3,
+    "year" : 1982,
+    "parking" : true,
+    "prob_price" : 786827592,
+    "views" : 78941
+  },
+  "rating" : 2.6,
+  "convenience" : 1,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Пирс 96",
+    "street" : "Юбилейная улица 92",
+    "city" : "Вильнюс",
+    "zipcode" : 749798,
+    "floors" : 2,
+    "year" : 2022,
+    "parking" : false,
+    "prob_price" : 850084604,
+    "views" : 8742
+  },
+  "rating" : 1.1,
+  "convenience" : 4,
+  "security" : 2,
+  "functionality" : 4,
+  "comment" : "У этого здания отличная архитектура."
+}, {
+  "name" : {
+    "name" : "Гусятник 98",
+    "street" : "Школьная улица 88",
+    "city" : "Таллин",
+    "zipcode" : 570079,
+    "floors" : 5,
+    "year" : 1756,
+    "parking" : false,
+    "prob_price" : 956167313,
+    "views" : 76855
+  },
+  "rating" : 3.0,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Утятник 22",
+    "street" : "Садовая улица 9",
+    "city" : "Хихон",
+    "zipcode" : 527675,
+    "floors" : 10,
+    "year" : 1628,
+    "parking" : true,
+    "prob_price" : 611055608,
+    "views" : 36104
+  },
+  "rating" : 5.0,
+  "convenience" : 2,
+  "security" : 4,
+  "functionality" : 5,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Верфь 25",
+    "street" : "Московская улица 33",
+    "city" : "Пласенсия",
+    "zipcode" : 404319,
+    "floors" : 10,
+    "year" : 1925,
+    "parking" : false,
+    "prob_price" : 856671870,
+    "views" : 120
+  },
+  "rating" : 0.6,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 2,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Больница 70",
+    "street" : "Морская улица 20",
+    "city" : "Артейхо",
+    "zipcode" : 406592,
+    "floors" : 1,
+    "year" : 1706,
+    "parking" : false,
+    "prob_price" : 896998578,
+    "views" : 57443
+  },
+  "rating" : 2.8,
+  "convenience" : 3,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Ангар 18",
+    "street" : "Юбилейная улица 6",
+    "city" : "Луго",
+    "zipcode" : 928693,
+    "floors" : 1,
+    "year" : 1993,
+    "parking" : false,
+    "prob_price" : 546547269,
+    "views" : 18991
+  },
+  "rating" : 3.7,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 3,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Борть 76",
+    "street" : "Осенняя улица 73",
+    "city" : "Ереван",
+    "zipcode" : 605648,
+    "floors" : 8,
+    "year" : 1830,
+    "parking" : false,
+    "prob_price" : 393922229,
+    "views" : 36216
+  },
+  "rating" : 2.5,
+  "convenience" : 4,
+  "security" : 3,
+  "functionality" : 1,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Парк 32",
+    "street" : "Летняя улица 25",
+    "city" : "Бургос",
+    "zipcode" : 495348,
+    "floors" : 8,
+    "year" : 1687,
+    "parking" : true,
+    "prob_price" : 475387723,
+    "views" : 86946
+  },
+  "rating" : 2.4,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+}, {
+  "name" : {
+    "name" : "Свиноферма 69",
+    "street" : "Речная улица 71",
+    "city" : "Авилес",
+    "zipcode" : 766504,
+    "floors" : 7,
+    "year" : 1816,
+    "parking" : false,
+    "prob_price" : 682581206,
+    "views" : 748
+  },
+  "rating" : 3.4,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 5,
+  "comment" : "Это великолепное здание!"
+}, {
+  "name" : {
+    "name" : "Эскалатор 37",
+    "street" : "Речная улица 51",
+    "city" : "Таллин",
+    "zipcode" : 618743,
+    "floors" : 6,
+    "year" : 1613,
+    "parking" : false,
+    "prob_price" : 800012375,
+    "views" : 89499
+  },
+  "rating" : 5.0,
+  "convenience" : 3,
+  "security" : 4,
+  "functionality" : 4,
+  "comment" : "Это здание прекрасно вписывается в окружающий ландшафт."
+}, {
+  "name" : {
+    "name" : "Конюшня 60",
+    "street" : "Школьная улица 56",
+    "city" : "Ереван",
+    "zipcode" : 498882,
+    "floors" : 3,
+    "year" : 1710,
+    "parking" : true,
+    "prob_price" : 442368445,
+    "views" : 17388
+  },
+  "rating" : 4.3,
+  "convenience" : 4,
+  "security" : 3,
+  "functionality" : 5,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Гусятник 5",
+    "street" : "Петербургская улица 53",
+    "city" : "Навалькарнеро",
+    "zipcode" : 813943,
+    "floors" : 5,
+    "year" : 1903,
+    "parking" : false,
+    "prob_price" : 647978873,
+    "views" : 77482
+  },
+  "rating" : 2.0,
+  "convenience" : 1,
+  "security" : 3,
+  "functionality" : 5,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Логово 50",
+    "street" : "Парковая улица 64",
+    "city" : "Мадрид",
+    "zipcode" : 738305,
+    "floors" : 2,
+    "year" : 2008,
+    "parking" : true,
+    "prob_price" : 402803797,
+    "views" : 33676
+  },
+  "rating" : 4.4,
+  "convenience" : 4,
+  "security" : 2,
+  "functionality" : 3,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Силок 93",
+    "street" : "Школьная улица 82",
+    "city" : "Ташкент",
+    "zipcode" : 633403,
+    "floors" : 10,
+    "year" : 1980,
+    "parking" : true,
+    "prob_price" : 347569438,
+    "views" : 29324
+  },
+  "rating" : 1.1,
+  "convenience" : 2,
+  "security" : 5,
+  "functionality" : 2,
+  "comment" : "Это великолепное здание!"
+}, {
+  "name" : {
+    "name" : "Супермаркет 32",
+    "street" : "Солнечная улица 86",
+    "city" : "Тбилиси",
+    "zipcode" : 175601,
+    "floors" : 7,
+    "year" : 1871,
+    "parking" : true,
+    "prob_price" : 971561157,
+    "views" : 24424
+  },
+  "rating" : 1.0,
+  "convenience" : 4,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это здание имеет стандартную конструкцию."
+}, {
+  "name" : {
+    "name" : "Кафе 38",
+    "street" : "Речная улица 47",
+    "city" : "Тудела",
+    "zipcode" : 963043,
+    "floors" : 9,
+    "year" : 1739,
+    "parking" : false,
+    "prob_price" : 273429913,
+    "views" : 96446
+  },
+  "rating" : 1.5,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 5,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Мансарда 25",
+    "street" : "Вроцлавская улица 81",
+    "city" : "Бильбао",
+    "zipcode" : 155168,
+    "floors" : 4,
+    "year" : 1912,
+    "parking" : true,
+    "prob_price" : 203820574,
+    "views" : 36923
+  },
+  "rating" : 3.1,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 3,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Канализация 5",
+    "street" : "Осенняя улица 6",
+    "city" : "Кордова",
+    "zipcode" : 523845,
+    "floors" : 4,
+    "year" : 1839,
+    "parking" : true,
+    "prob_price" : 324839826,
+    "views" : 16525
+  },
+  "rating" : 4.3,
+  "convenience" : 4,
+  "security" : 1,
+  "functionality" : 5,
+  "comment" : "Это здание является примером функционального дизайна."
+}, {
+  "name" : {
+    "name" : "Сеть 63",
+    "street" : "Солнечная улица 3",
+    "city" : "София",
+    "zipcode" : 738443,
+    "floors" : 7,
+    "year" : 1811,
+    "parking" : false,
+    "prob_price" : 931342848,
+    "views" : 18233
+  },
+  "rating" : 2.9,
+  "convenience" : 1,
+  "security" : 5,
+  "functionality" : 3,
+  "comment" : "Это великолепное здание!"
+}, {
+  "name" : {
+    "name" : "Логово 53",
+    "street" : "Киевская улица 35",
+    "city" : "Камбадос",
+    "zipcode" : 799135,
+    "floors" : 4,
+    "year" : 1610,
+    "parking" : true,
+    "prob_price" : 808820216,
+    "views" : 43769
+  },
+  "rating" : 4.0,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 1,
+  "comment" : "Это здание подходит для различных видов использования, таких как жилые комплексы, офисные здания или торговые центры."
+}, {
+  "name" : {
+    "name" : "Автомойка 6",
+    "street" : "Минская улица 67",
+    "city" : "Алькала-де-Энарес",
+    "zipcode" : 326614,
+    "floors" : 7,
+    "year" : 1712,
+    "parking" : false,
+    "prob_price" : 669434226,
+    "views" : 30377
+  },
+  "rating" : 0.8,
+  "convenience" : 3,
+  "security" : 1,
+  "functionality" : 3,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Дуплянка 19",
+    "street" : "Зеленая улица 8",
+    "city" : "Краков",
+    "zipcode" : 906365,
+    "floors" : 1,
+    "year" : 1946,
+    "parking" : true,
+    "prob_price" : 597807758,
+    "views" : 75592
+  },
+  "rating" : 1.0,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 3,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Банк 25",
+    "street" : "Зеленая улица 34",
+    "city" : "Вальядолид",
+    "zipcode" : 587268,
+    "floors" : 5,
+    "year" : 1757,
+    "parking" : false,
+    "prob_price" : 858695499,
+    "views" : 68789
+  },
+  "rating" : 4.8,
+  "convenience" : 1,
+  "security" : 3,
+  "functionality" : 1,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Гусятник 7",
+    "street" : "Зеленая улица 63",
+    "city" : "Махадаонда",
+    "zipcode" : 709746,
+    "floors" : 5,
+    "year" : 1988,
+    "parking" : false,
+    "prob_price" : 314453021,
+    "views" : 67358
+  },
+  "rating" : 2.1,
+  "convenience" : 3,
+  "security" : 3,
+  "functionality" : 1,
+  "comment" : "Мне нравится дизайн этого здания."
+}, {
+  "name" : {
+    "name" : "Мостки 47",
+    "street" : "Летняя улица 82",
+    "city" : "Сантьяго-де-Компостела",
+    "zipcode" : 598025,
+    "floors" : 9,
+    "year" : 1646,
+    "parking" : false,
+    "prob_price" : 697030559,
+    "views" : 67158
+  },
+  "rating" : 0.9,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 2,
+  "comment" : "Это здание очень функционально."
+}, {
+  "name" : {
+    "name" : "Гусятник 84",
+    "street" : "Горная улица 75",
+    "city" : "Эль-Пуэрто-де-Санта-Мария",
+    "zipcode" : 373603,
+    "floors" : 2,
+    "year" : 1689,
+    "parking" : true,
+    "prob_price" : 162416581,
+    "views" : 3233
+  },
+  "rating" : 0.3,
+  "convenience" : 3,
+  "security" : 4,
+  "functionality" : 1,
+  "comment" : "Это здание построено из стандартных строительных материалов."
+}, {
+  "name" : {
+    "name" : "Скворечник 96",
+    "street" : "Московская улица 55",
+    "city" : "Санкт-Петербург",
+    "zipcode" : 140210,
+    "floors" : 2,
+    "year" : 1983,
+    "parking" : true,
+    "prob_price" : 250129768,
+    "views" : 33422
+  },
+  "rating" : 0.3,
+  "convenience" : 4,
+  "security" : 4,
+  "functionality" : 5,
+  "comment" : "Это здание представляет собой типичный образец современной архитектуры."
+}, {
+  "name" : {
+    "name" : "Паутинник 64",
+    "street" : "Юбилейная улица 68",
+    "city" : "Лас-Росас",
+    "zipcode" : 301433,
+    "floors" : 5,
+    "year" : 1809,
+    "parking" : true,
+    "prob_price" : 57234933,
+    "views" : 72390
+  },
+  "rating" : 3.7,
+  "convenience" : 5,
+  "security" : 3,
+  "functionality" : 5,
+  "comment" : "Это здание находится в хорошем состоянии и не требует значительных ремонтных работ."
+} ]

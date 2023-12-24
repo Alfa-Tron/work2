@@ -1,0 +1,18 @@
+{
+  "name" : {
+    "name" : "Парк 16",
+    "street" : "Вроцлавская улица 21",
+    "city" : "Ташкент",
+    "zipcode" : 768166,
+    "floors" : 2,
+    "year" : 1998,
+    "parking" : false,
+    "prob_price" : 910974943,
+    "views" : 68112
+  },
+  "rating" : 3.6,
+  "convenience" : 3,
+  "security" : 2,
+  "functionality" : 2,
+  "comment" : "У этого здания отличная архитектура."
+}

@@ -1,0 +1,330 @@
+{"_id": "South Tamworth, NSW", "avgPrice": 23390.0}
+{"_id": "Holbrook, NSW", "avgPrice": 22490.0}
+{"_id": "Kogarah, NSW", "avgPrice": 9825.0}
+{"_id": "Robina, QLD", "avgPrice": 43491.73333333333}
+{"_id": "East Maitland, NSW", "avgPrice": 36247.852459016394}
+{"_id": "CAMBERWELL, VIC", "avgPrice": 39476.875}
+{"_id": "Mittagong, NSW", "avgPrice": 54323.333333333336}
+{"_id": "Wantirna, VIC", "avgPrice": 34888.0}
+{"_id": "Mount Gravatt, QLD", "avgPrice": 11499.0}
+{"_id": "Upper Ferntree Gully, VIC", "avgPrice": 26952.166666666668}
+{"_id": "Doncaster, VIC", "avgPrice": 57839.0}
+{"_id": "Capalaba, QLD", "avgPrice": 35990.09523809524}
+{"_id": "Vermont, VIC", "avgPrice": 41470.68965517241}
+{"_id": "Pennant Hills, NSW", "avgPrice": 59412.67567567567}
+{"_id": "Hamilton North, NSW", "avgPrice": 22172.424242424244}
+{"_id": "Moruya, NSW", "avgPrice": 66656.66666666667}
+{"_id": "Bass Hill, NSW", "avgPrice": 12616.666666666666}
+{"_id": "Wodonga, VIC", "avgPrice": 41810.9375}
+{"_id": "Camden, NSW", "avgPrice": 14120.0}
+{"_id": "Artarmon, NSW", "avgPrice": 71674.87878787878}
+{"_id": "Carlton, NSW", "avgPrice": 99027.53488372093}
+{"_id": "Dudley Park, WA", "avgPrice": 43057.9}
+{"_id": "Narre Warren, VIC", "avgPrice": 59654.04}
+{"_id": "Preston, VIC", "avgPrice": 37316.61111111111}
+{"_id": "Hallam, VIC", "avgPrice": 31753.625}
+{"_id": "Belconnen, ACT", "avgPrice": 32912.805555555555}
+{"_id": "Alphington, VIC", "avgPrice": 24307.666666666668}
+{"_id": "Heatherbrae, NSW", "avgPrice": 24058.75}
+{"_id": "Wentworthville, NSW", "avgPrice": 3040.5}
+{"_id": "Tweed Heads South, NSW", "avgPrice": 27174.274509803923}
+{"_id": "Blacktown, NSW", "avgPrice": 40061.02573529412}
+{"_id": "Underwood, QLD", "avgPrice": 18990.0}
+{"_id": "Macksville, NSW", "avgPrice": 8166.666666666667}
+{"_id": "Coburg North, VIC", "avgPrice": 27425.581395348836}
+{"_id": "Watsonia, VIC", "avgPrice": 18656.666666666668}
+{"_id": "Albion, QLD", "avgPrice": 25258.0}
+{"_id": "FAWKNER, VIC", "avgPrice": 34590.0}
+{"_id": "Condell Park, NSW", "avgPrice": 35490.0}
+{"_id": "Kelso, NSW", "avgPrice": 34590.0}
+{"_id": "Crookwell, NSW", "avgPrice": 28790.0}
+{"_id": "Punchbowl, NSW", "avgPrice": 7950.0}
+{"_id": "Campbelltown, NSW", "avgPrice": 31026.1125}
+{"_id": "Bennetts Green, NSW", "avgPrice": 40160.0}
+{"_id": "Regents Park, NSW", "avgPrice": 6990.0}
+{"_id": "Roselands, NSW", "avgPrice": 57181.2}
+{"_id": "North Strathfield, NSW", "avgPrice": 36850.0}
+{"_id": "Goulburn, NSW", "avgPrice": 38053.04347826087}
+{"_id": "Yass, NSW", "avgPrice": 40245.0}
+{"_id": "Forbes, NSW", "avgPrice": 19490.0}
+{"_id": "Moss Vale, NSW", "avgPrice": 42273.0}
+{"_id": "Southport, QLD", "avgPrice": 44968.68817204301}
+{"_id": "Lansvale, NSW", "avgPrice": 9874.111111111111}
+{"_id": "Concord, NSW", "avgPrice": 61353.857142857145}
+{"_id": "Bunbury, WA", "avgPrice": 32740.0}
+{"_id": "Hume, ACT", "avgPrice": 32003.0}
+{"_id": "Islington, NSW", "avgPrice": 8235.0}
+{"_id": "Wangara, WA", "avgPrice": 31684.77142857143}
+{"_id": "Ryde, NSW", "avgPrice": 35161.311111111114}
+{"_id": "Albion Park, NSW", "avgPrice": 42084.22857142857}
+{"_id": "EPPING, VIC", "avgPrice": 13470.0}
+{"_id": "Seven Hills, NSW", "avgPrice": 18939.157894736843}
+{"_id": "Wickham, NSW", "avgPrice": 22525.18181818182}
+{"_id": "Silverwater, NSW", "avgPrice": 16900.0}
+{"_id": "Fairfield East, NSW", "avgPrice": 18625.30769230769}
+{"_id": "Lavington, NSW", "avgPrice": 49694.470588235294}
+{"_id": "Rozelle, NSW", "avgPrice": 53954.9494949495}
+{"_id": "Smithfield, NSW", "avgPrice": 21499.923076923078}
+{"_id": "Chipping Norton, NSW", "avgPrice": 64094.28571428572}
+{"_id": "Goolwa, SA", "avgPrice": 13115.0}
+{"_id": "Stanthorpe, QLD", "avgPrice": 8990.0}
+{"_id": "Lambton, NSW", "avgPrice": 10578.235294117647}
+{"_id": "South Grafton, NSW", "avgPrice": 23999.0}
+{"_id": "Orange, NSW", "avgPrice": 40177.1875}
+{"_id": "Bairnsdale, VIC", "avgPrice": 31161.428571428572}
+{"_id": "Mayfield, NSW", "avgPrice": 23328.333333333332}
+{"_id": "West Ryde, NSW", "avgPrice": 34400.2962962963}
+{"_id": "Bundoora, VIC", "avgPrice": 45161.6}
+{"_id": "Townsville, QLD", "avgPrice": 22388.0}
+{"_id": "Myaree, WA", "avgPrice": 49780.375}
+{"_id": "Zetland, NSW", "avgPrice": 50264.61538461538}
+{"_id": "Wauchope, NSW", "avgPrice": 12477.272727272728}
+{"_id": "Ashmore, QLD", "avgPrice": 40947.69565217391}
+{"_id": "Dandenong South, VIC", "avgPrice": 37493.0}
+{"_id": "Arundel, QLD", "avgPrice": 22354.4}
+{"_id": "Nerang, QLD", "avgPrice": 12154.583333333334}
+{"_id": "Strathalbyn, SA", "avgPrice": 25559.285714285714}
+{"_id": "Fawkner, VIC", "avgPrice": 21017.5}
+{"_id": "Pakenham, VIC", "avgPrice": 30543.49504950495}
+{"_id": "Clarkson, WA", "avgPrice": 38149.2}
+{"_id": "South Morang, VIC", "avgPrice": 49294.0}
+{"_id": "Thornbury, VIC", "avgPrice": 37435.71428571428}
+{"_id": "Dandenong, VIC", "avgPrice": 19713.92}
+{"_id": "Boolaroo, NSW", "avgPrice": 24971.428571428572}
+{"_id": "Homebush West, NSW", "avgPrice": 32661.666666666668}
+{"_id": "Camira, QLD", "avgPrice": 11631.8}
+{"_id": "Burwood, VIC", "avgPrice": 38639.820512820515}
+{"_id": "West Ballina, NSW", "avgPrice": 34940.0}
+{"_id": "Rushcutters Bay, NSW", "avgPrice": 279011.25}
+{"_id": "Banyo, QLD", "avgPrice": 26041.0}
+{"_id": "Belmore, NSW", "avgPrice": 39810.09090909091}
+{"_id": "Monterey, NSW", "avgPrice": 16888.0}
+{"_id": "Tuggerah, NSW", "avgPrice": 32121.57894736842}
+{"_id": "Mayfield West, NSW", "avgPrice": 23461.162790697676}
+{"_id": "Boronia, VIC", "avgPrice": 13833.0}
+{"_id": "Leichhardt, NSW", "avgPrice": 13386.166666666666}
+{"_id": "DONCASTER, VIC", "avgPrice": 62282.0}
+{"_id": "Newcastle West, NSW", "avgPrice": 69323.66666666667}
+{"_id": "Loftville, NSW", "avgPrice": 38323.333333333336}
+{"_id": "Bibra Lake, WA", "avgPrice": 46925.0}
+{"_id": "Bowral, NSW", "avgPrice": 25500.0}
+{"_id": "Maitland, NSW", "avgPrice": 28923.777777777777}
+{"_id": "Bega, NSW", "avgPrice": 47685.0}
+{"_id": "Maidstone, VIC", "avgPrice": 16995.0}
+{"_id": "Epping, VIC", "avgPrice": 36970.8431372549}
+{"_id": "Saint Marys, NSW", "avgPrice": 14706.136363636364}
+{"_id": "Eastern Creek, NSW", "avgPrice": 15715.0}
+{"_id": "Sydney, NSW", "avgPrice": 116266.66666666667}
+{"_id": "Molendinar, QLD", "avgPrice": 28603.636363636364}
+{"_id": "Bentley, WA", "avgPrice": 55438.41379310345}
+{"_id": "Mount Lawley, WA", "avgPrice": 7717.5}
+{"_id": "Gungahlin, ACT", "avgPrice": 34157.0}
+{"_id": "Petersham, NSW", "avgPrice": 34200.0}
+{"_id": "Dingley Village, VIC", "avgPrice": 14326.333333333334}
+{"_id": "Melrose Park, SA", "avgPrice": 27047.058823529413}
+{"_id": "Bells Creek, QLD", "avgPrice": 18990.0}
+{"_id": "Epsom, VIC", "avgPrice": 42188.28571428572}
+{"_id": "Lismore, NSW", "avgPrice": 28930.555555555555}
+{"_id": "Rocklea, QLD", "avgPrice": 15580.4}
+{"_id": "Campsie, NSW", "avgPrice": 20958.166666666668}
+{"_id": "Welshpool, WA", "avgPrice": 24428.5}
+{"_id": "Kyabram, VIC", "avgPrice": 32990.0}
+{"_id": "Moorooka, QLD", "avgPrice": 9995.0}
+{"_id": "Golden Square, VIC", "avgPrice": 52347.5}
+{"_id": "Warners Bay, NSW", "avgPrice": 18390.0}
+{"_id": "Glebe, NSW", "avgPrice": 77070.36363636363}
+{"_id": "Balwyn, VIC", "avgPrice": 38390.0}
+{"_id": "Granville, NSW", "avgPrice": 28938.803149606298}
+{"_id": "Murrumbeena, VIC", "avgPrice": 25000.0}
+{"_id": "Echuca, VIC", "avgPrice": 31422.153846153848}
+{"_id": "Penrith, NSW", "avgPrice": 28164.72}
+{"_id": "Jamisontown, NSW", "avgPrice": 45776.47368421053}
+{"_id": "Warwick Farm, NSW", "avgPrice": 51436.851851851854}
+{"_id": "Windang, NSW", "avgPrice": 23373.714285714286}
+{"_id": "Laverton North, VIC", "avgPrice": 67485.0}
+{"_id": "Coopers Plains, QLD", "avgPrice": 22076.526315789473}
+{"_id": "Sale, VIC", "avgPrice": 9419.0}
+{"_id": "Coburg, VIC", "avgPrice": 2050.0}
+{"_id": "Brookvale, NSW", "avgPrice": 34507.208333333336}
+{"_id": "Springwood, QLD", "avgPrice": 28939.375}
+{"_id": "Ravenhall, VIC", "avgPrice": 13999.0}
+{"_id": "Enfield, SA", "avgPrice": 24704.827586206895}
+{"_id": "South Nowra, NSW", "avgPrice": 31321.878787878788}
+{"_id": "Essendon, VIC", "avgPrice": 24898.571428571428}
+{"_id": "Phillip, ACT", "avgPrice": 31119.345911949684}
+{"_id": "Homebush, NSW", "avgPrice": 36587.350877192985}
+{"_id": "Darlinghurst, NSW", "avgPrice": 48953.444444444445}
+{"_id": "Strathfield, NSW", "avgPrice": 204935.0}
+{"_id": "Caringbah, NSW", "avgPrice": 47798.0}
+{"_id": "South Windsor, NSW", "avgPrice": 17583.333333333332}
+{"_id": "McDougalls Hill, NSW", "avgPrice": 50847.142857142855}
+{"_id": "HEIDELBERG, VIC", "avgPrice": 35785.76470588235}
+{"_id": "Port Melbourne, VIC", "avgPrice": 13919.0}
+{"_id": "Hillcrest, QLD", "avgPrice": 53585.0}
+{"_id": "Kurri Kurri, NSW", "avgPrice": 11110.227272727272}
+{"_id": "Burwood, NSW", "avgPrice": 56617.27272727273}
+{"_id": "Taylors Beach, NSW", "avgPrice": 50019.13333333333}
+{"_id": "Gateshead, NSW", "avgPrice": 44197.90909090909}
+{"_id": "Stanmore, NSW", "avgPrice": 42544.181818181816}
+{"_id": "Mill Park, VIC", "avgPrice": 19990.0}
+{"_id": "Deer Park, VIC", "avgPrice": 15999.0}
+{"_id": "Bentleigh, VIC", "avgPrice": 49902.933333333334}
+{"_id": "Waitara, NSW", "avgPrice": 50362.117647058825}
+{"_id": "Singleton, NSW", "avgPrice": 42033.65625}
+{"_id": "Slacks Creek, QLD", "avgPrice": 24591.0}
+{"_id": "Oakleigh, VIC", "avgPrice": 22748.0}
+{"_id": "Oak Flats, NSW", "avgPrice": 12999.0}
+{"_id": "Muswellbrook, NSW", "avgPrice": 44670.555555555555}
+{"_id": "Windsor, NSW", "avgPrice": 59266.454545454544}
+{"_id": "Pendle Hill, NSW", "avgPrice": 21672.222222222223}
+{"_id": "Ringwood, VIC", "avgPrice": 21188.425675675677}
+{"_id": "Lidcombe, NSW", "avgPrice": 25163.746666666666}
+{"_id": "Croydon, NSW", "avgPrice": 24754.6875}
+{"_id": "Brooklyn, VIC", "avgPrice": 9999.0}
+{"_id": "North Wollongong, NSW", "avgPrice": 37281.4375}
+{"_id": "Auburn, NSW", "avgPrice": 105318.44}
+{"_id": "Narellan, NSW", "avgPrice": 45892.18518518518}
+{"_id": "SOUTH MELBOURNE, VIC", "avgPrice": 31880.0}
+{"_id": "Erina, NSW", "avgPrice": 36940.0}
+{"_id": "Arncliffe, NSW", "avgPrice": 44860.846153846156}
+{"_id": "Belmont, NSW", "avgPrice": 13323.333333333334}
+{"_id": "Springvale, VIC", "avgPrice": 39096.307692307695}
+{"_id": "Greenacre, NSW", "avgPrice": 33358.0}
+{"_id": "Cheltenham, VIC", "avgPrice": 15556.363636363636}
+{"_id": "Chester Hill, NSW", "avgPrice": 7116.64705882353}
+{"_id": "Ingleburn, NSW", "avgPrice": 27360.0}
+{"_id": "Balcatta, WA", "avgPrice": 40390.0}
+{"_id": "Sutherland, NSW", "avgPrice": 45898.3125}
+{"_id": "Armidale, NSW", "avgPrice": 24212.222222222223}
+{"_id": "Sylvania, NSW", "avgPrice": 64512.066666666666}
+{"_id": "Biggera Waters, QLD", "avgPrice": 18996.0}
+{"_id": "Carrum Downs, VIC", "avgPrice": 12494.5}
+{"_id": "Alexandria, NSW", "avgPrice": 37831.65354330709}
+{"_id": "Medlow Bath, NSW", "avgPrice": 34790.0}
+{"_id": "Currumbin Waters, QLD", "avgPrice": 35740.0}
+{"_id": "Morphett Vale, SA", "avgPrice": 27038.0}
+{"_id": "Waratah, NSW", "avgPrice": 10418.57142857143}
+{"_id": "Roseville, NSW", "avgPrice": 30990.0}
+{"_id": "SOUTH MORANG, VIC", "avgPrice": 42027.142857142855}
+{"_id": "Warragul, VIC", "avgPrice": 21990.0}
+{"_id": "Minto, NSW", "avgPrice": 17855.555555555555}
+{"_id": "Labrador, QLD", "avgPrice": 21631.41379310345}
+{"_id": "Truganina, VIC", "avgPrice": 20732.69230769231}
+{"_id": "Tugun, QLD", "avgPrice": 11240.0}
+{"_id": "Banksia, NSW", "avgPrice": 37990.0}
+{"_id": "Mornington, VIC", "avgPrice": 40823.333333333336}
+{"_id": "Harrington, NSW", "avgPrice": 12125.0}
+{"_id": "Liverpool, NSW", "avgPrice": 39158.71428571428}
+{"_id": "Ashfield, NSW", "avgPrice": 34435.0}
+{"_id": "Tuncurry, NSW", "avgPrice": 27214.5}
+{"_id": "Bathurst, NSW", "avgPrice": 48028.46153846154}
+{"_id": "Walcha, NSW", "avgPrice": 11995.0}
+{"_id": "Traralgon, VIC", "avgPrice": 29702.180722891568}
+{"_id": "Dapto, NSW", "avgPrice": 32249.0}
+{"_id": "Bayswater, VIC", "avgPrice": 16719.125}
+{"_id": "West Footscray, VIC", "avgPrice": 16990.0}
+{"_id": "Rouse Hill, NSW", "avgPrice": 18062.935483870966}
+{"_id": "Moorebank, NSW", "avgPrice": 22344.0}
+{"_id": "Morwell, VIC", "avgPrice": 12999.0}
+{"_id": "Port Macquarie, NSW", "avgPrice": 42364.63492063492}
+{"_id": "Osborne Park, WA", "avgPrice": 38103.5}
+{"_id": "Bassendean, WA", "avgPrice": 39245.555555555555}
+{"_id": "Rutherford, NSW", "avgPrice": 35665.74193548387}
+{"_id": "Lindfield, NSW", "avgPrice": 56632.857142857145}
+{"_id": "Cessnock, NSW", "avgPrice": 34052.5}
+{"_id": "Yallah, NSW", "avgPrice": 31714.285714285714}
+{"_id": "Thomastown, VIC", "avgPrice": 22323.4375}
+{"_id": "Lisarow, NSW", "avgPrice": 23725.0}
+{"_id": "Lilydale, VIC", "avgPrice": 32674.208333333332}
+{"_id": "", "avgPrice": 0.0}
+{"_id": "Edgeworth, NSW", "avgPrice": 17791.35}
+{"_id": "Avondale Heights, VIC", "avgPrice": 8999.0}
+{"_id": "Pinkenba, QLD", "avgPrice": 32990.0}
+{"_id": "Taren Point, NSW", "avgPrice": 57585.0}
+{"_id": "Taree, NSW", "avgPrice": 43262.60784313725}
+{"_id": "Greenway, ACT", "avgPrice": 32349.473684210527}
+{"_id": "Braeside, VIC", "avgPrice": 27215.053571428572}
+{"_id": "Cannington, WA", "avgPrice": 36969.1}
+{"_id": "Mount Druitt, NSW", "avgPrice": 23145.76923076923}
+{"_id": "Castle Hill, NSW", "avgPrice": 34876.21951219512}
+{"_id": "Mosman, NSW", "avgPrice": 47147.89473684211}
+{"_id": "Minchinbury, NSW", "avgPrice": 17706.959731543626}
+{"_id": "Fyshwick, ACT", "avgPrice": 35851.86666666667}
+{"_id": "Glendale, NSW", "avgPrice": 30193.846153846152}
+{"_id": "Nowra, NSW", "avgPrice": 33186.46153846154}
+{"_id": "Coffs Harbour, NSW", "avgPrice": 46763.4375}
+{"_id": "Mitcham, VIC", "avgPrice": 29638.0}
+{"_id": "Elderslie, NSW", "avgPrice": 18903.285714285714}
+{"_id": "Broadmeadow, NSW", "avgPrice": 14656.666666666666}
+{"_id": "Braybrook, VIC", "avgPrice": 24993.5}
+{"_id": "Moorabbin, VIC", "avgPrice": 19937.285714285714}
+{"_id": "Waterloo, NSW", "avgPrice": 54852.48780487805}
+{"_id": "Mascot, NSW", "avgPrice": 62227.5}
+{"_id": "Branxton, NSW", "avgPrice": 10850.0}
+{"_id": "Officer, VIC", "avgPrice": 29117.85714285714}
+{"_id": "Gosford, NSW", "avgPrice": 41286.0}
+{"_id": "Smeaton Grange, NSW", "avgPrice": 37371.36507936508}
+{"_id": "Batemans Bay, NSW", "avgPrice": 29217.428571428572}
+{"_id": "Lithgow, NSW", "avgPrice": 38740.0}
+{"_id": "Bendigo, VIC", "avgPrice": 32090.0}
+{"_id": "Tweed Heads, NSW", "avgPrice": 17589.0}
+{"_id": "Kedron, QLD", "avgPrice": 16490.0}
+{"_id": "Sandgate, NSW", "avgPrice": 31997.0}
+{"_id": "Rydalmere, NSW", "avgPrice": 67873.07692307692}
+{"_id": "Morayfield, QLD", "avgPrice": 17708.24}
+{"_id": "Mandurah, WA", "avgPrice": 41919.4}
+{"_id": "Wollongong, NSW", "avgPrice": 35660.968253968254}
+{"_id": "Cardiff, NSW", "avgPrice": 25111.159574468085}
+{"_id": "Albion Park Rail, NSW", "avgPrice": 59529.94285714286}
+{"_id": "Beresfield, NSW", "avgPrice": 21539.285714285714}
+{"_id": "South Hurstville, NSW", "avgPrice": 35135.75}
+{"_id": "Raymond Terrace, NSW", "avgPrice": 47656.666666666664}
+{"_id": "Seymour, VIC", "avgPrice": 40218.09090909091}
+{"_id": "Helensvale, QLD", "avgPrice": 33824.7}
+{"_id": "BAYSWATER NORTH, VIC", "avgPrice": 8083.428571428572}
+{"_id": "Bankstown, NSW", "avgPrice": 19882.608695652172}
+{"_id": "Chatswood, NSW", "avgPrice": 48207.873239436616}
+{"_id": "Cheltenham, SA", "avgPrice": 25938.5}
+{"_id": "West Gosford, NSW", "avgPrice": 31550.470588235294}
+{"_id": "Walla Walla, NSW", "avgPrice": 53000.0}
+{"_id": "Rockingham, WA", "avgPrice": 32940.0}
+{"_id": "Frankston, VIC", "avgPrice": 28394.833333333332}
+{"_id": "Briar Hill, VIC", "avgPrice": 21110.11111111111}
+{"_id": "Cabramatta, NSW", "avgPrice": 19841.7}
+{"_id": "Yagoona, NSW", "avgPrice": 12284.714285714286}
+{"_id": "Mordialloc, VIC", "avgPrice": 6999.0}
+{"_id": "Kirrawee, NSW", "avgPrice": 38067.253333333334}
+{"_id": "Hamilton East, NSW", "avgPrice": 39563.80952380953}
+{"_id": "Nunawading, VIC", "avgPrice": 43587.35294117647}
+{"_id": "Maryville, NSW", "avgPrice": 30965.5}
+{"_id": "Brighton, SA", "avgPrice": 32532.285714285714}
+{"_id": "Wangaratta, VIC", "avgPrice": 40906.666666666664}
+{"_id": "Mulgrave, VIC", "avgPrice": 73543.84615384616}
+{"_id": "Seaford, VIC", "avgPrice": 24970.0}
+{"_id": "Ferntree Gully, VIC", "avgPrice": 43284.566666666666}
+{"_id": "Revesby, NSW", "avgPrice": 28021.25}
+{"_id": "Mcgraths Hill, NSW", "avgPrice": 32931.8717948718}
+{"_id": "Berwick, VIC", "avgPrice": 44939.17808219178}
+{"_id": "Nedlands, WA", "avgPrice": 123200.0}
+{"_id": "Kellyville, NSW", "avgPrice": 4332.333333333333}
+{"_id": "Chullora, NSW", "avgPrice": 40556.666666666664}
+{"_id": "Five Dock, NSW", "avgPrice": 20988.32786885246}
+{"_id": "Ulladulla, NSW", "avgPrice": 37323.333333333336}
+{"_id": "Padstow, NSW", "avgPrice": 54899.09090909091}
+{"_id": "Campbellfield, VIC", "avgPrice": 11999.666666666666}
+{"_id": "Hamilton, NSW", "avgPrice": 26107.037037037036}
+{"_id": "Shepparton, VIC", "avgPrice": 32431.176470588234}
+{"_id": "New Lambton, NSW", "avgPrice": 26418.571428571428}
+{"_id": "Coorparoo, QLD", "avgPrice": 18750.0}
+{"_id": "Merrylands, NSW", "avgPrice": 7323.333333333333}
+{"_id": "Archerfield, QLD", "avgPrice": 24284.058823529413}
+{"_id": "Burleigh Heads, QLD", "avgPrice": 103900.0}
+{"_id": "Richmond, NSW", "avgPrice": 25942.4}
+{"_id": "Leumeah, NSW", "avgPrice": 4033.3333333333335}
+{"_id": "Haberfield, NSW", "avgPrice": 26485.14285714286}
+{"_id": "Milperra, NSW", "avgPrice": 42480.0}
+{"_id": "Thornleigh, NSW", "avgPrice": 44033.913043478264}
+{"_id": "Fairfield, VIC", "avgPrice": 54847.375}
+{"_id": "North Narrabeen, NSW", "avgPrice": 37220.0}
+{"_id": "Adamstown, NSW", "avgPrice": 20204.285714285714}
+{"_id": "Carss Park, NSW", "avgPrice": 93990.0}

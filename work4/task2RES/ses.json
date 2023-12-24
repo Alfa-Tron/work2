@@ -1,0 +1,18 @@
+{
+  "name" : {
+    "name" : "Электростанция 69",
+    "street" : "Горная улица 76",
+    "city" : "София",
+    "zipcode" : 728329,
+    "floors" : 3,
+    "year" : 1847,
+    "parking" : true,
+    "prob_price" : 291104912,
+    "views" : 12776
+  },
+  "rating" : 2.8,
+  "convenience" : 2,
+  "security" : 3,
+  "functionality" : 4,
+  "comment" : "Это здание не имеет особых архитектурных особенностей."
+}

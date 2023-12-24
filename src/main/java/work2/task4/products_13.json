@@ -1,0 +1,294 @@
+[
+    {
+        "name": "Siding",
+        "price": 77.44
+    },
+    {
+        "name": "Moustache wax",
+        "price": 72.14
+    },
+    {
+        "name": "Nail polish",
+        "price": 40.18
+    },
+    {
+        "name": "Electrical",
+        "price": 90.75
+    },
+    {
+        "name": "Wheelbarrow",
+        "price": 49.33
+    },
+    {
+        "name": "Paint",
+        "price": 69.97
+    },
+    {
+        "name": "Tile",
+        "price": 87.98
+    },
+    {
+        "name": "Shovel",
+        "price": 68.7
+    },
+    {
+        "name": "Baseboard",
+        "price": 59.21
+    },
+    {
+        "name": "Face wash",
+        "price": 49.31
+    },
+    {
+        "name": "Raspberry",
+        "price": 72.99
+    },
+    {
+        "name": "Nails",
+        "price": 79.75
+    },
+    {
+        "name": "Glue",
+        "price": 94.05
+    },
+    {
+        "name": "Body wash",
+        "price": 38.11
+    },
+    {
+        "name": "Axe",
+        "price": 33.63
+    },
+    {
+        "name": "Blackberry",
+        "price": 97.4
+    },
+    {
+        "name": "Flooring",
+        "price": 14.85
+    },
+    {
+        "name": "Lip balm",
+        "price": 77.38
+    },
+    {
+        "name": "Blueberry",
+        "price": 60.78
+    },
+    {
+        "name": "Saw",
+        "price": 59.22
+    },
+    {
+        "name": "Toner",
+        "price": 27.32
+    },
+    {
+        "name": "Screws",
+        "price": 36.4
+    },
+    {
+        "name": "Peach",
+        "price": 67.72
+    },
+    {
+        "name": "Manicure set",
+        "price": 92.72
+    },
+    {
+        "name": "Melon",
+        "price": 10.75
+    },
+    {
+        "name": "Nail file",
+        "price": 38.66
+    },
+    {
+        "name": "Ladder",
+        "price": 31.65
+    },
+    {
+        "name": "Bubble bath",
+        "price": 71.08
+    },
+    {
+        "name": "Doors",
+        "price": 88.69
+    },
+    {
+        "name": "Facial cleanser",
+        "price": 41.63
+    },
+    {
+        "name": "Scaffolding",
+        "price": 81.62
+    },
+    {
+        "name": "Guava",
+        "price": 69.33
+    },
+    {
+        "name": "Trim",
+        "price": 14.36
+    },
+    {
+        "name": "Plumbing",
+        "price": 69.18
+    },
+    {
+        "name": "Lotion",
+        "price": 19.75
+    },
+    {
+        "name": "Chisel",
+        "price": 16.1
+    },
+    {
+        "name": "Boysenberry",
+        "price": 24.21
+    },
+    {
+        "name": "Hair mask",
+        "price": 17.19
+    },
+    {
+        "name": "Moisturizer",
+        "price": 70.97
+    },
+    {
+        "name": "Apple",
+        "price": 23.94
+    },
+    {
+        "name": "Baby shampoo",
+        "price": 13.87
+    },
+    {
+        "name": "Drywall",
+        "price": 60.68
+    },
+    {
+        "name": "Hammer",
+        "price": 50.37
+    },
+    {
+        "name": "Perfume",
+        "price": 39.83
+    },
+    {
+        "name": "Papaya",
+        "price": 24.72
+    },
+    {
+        "name": "Wallpaper",
+        "price": 33.59
+    },
+    {
+        "name": "Windows",
+        "price": 73.43
+    },
+    {
+        "name": "Cherry",
+        "price": 60.01
+    },
+    {
+        "name": "Night cream",
+        "price": 87.26
+    },
+    {
+        "name": "Toothpaste",
+        "price": 84.46
+    },
+    {
+        "name": "Kiwifruit",
+        "price": 14.09
+    },
+    {
+        "name": "Pedicure set",
+        "price": 58.41
+    },
+    {
+        "name": "Roofing",
+        "price": 36.13
+    },
+    {
+        "name": "Cranberry",
+        "price": 68.64
+    },
+    {
+        "name": "Eye cream",
+        "price": 93.16
+    },
+    {
+        "name": "Makeup remover",
+        "price": 42.71
+    },
+    {
+        "name": "Conditioner",
+        "price": 81.34
+    },
+    {
+        "name": "Plum",
+        "price": 60.68
+    },
+    {
+        "name": "Shampoo",
+        "price": 55.95
+    },
+    {
+        "name": "Insulation",
+        "price": 49.62
+    },
+    {
+        "name": "Grapes",
+        "price": 35.73
+    },
+    {
+        "name": "Tape measure",
+        "price": 79.55
+    },
+    {
+        "name": "Pineapple",
+        "price": 25.21
+    },
+    {
+        "name": "Level",
+        "price": 21.04
+    },
+    {
+        "name": "Sunscreen",
+        "price": 61.14
+    },
+    {
+        "name": "Orange",
+        "price": 38.75
+    },
+    {
+        "name": "Apricot",
+        "price": 78.71
+    },
+    {
+        "name": "Exfoliator",
+        "price": 13.34
+    },
+    {
+        "name": "Mango",
+        "price": 23.99
+    },
+    {
+        "name": "Banana",
+        "price": 96.6
+    },
+    {
+        "name": "Deodorant",
+        "price": 70.79
+    },
+    {
+        "name": "Serum",
+        "price": 34.35
+    },
+    {
+        "name": "Strawberry",
+        "price": 47.48
+    }
+]

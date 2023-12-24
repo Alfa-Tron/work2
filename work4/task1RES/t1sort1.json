@@ -1,0 +1,231 @@
+[ {
+  "name" : "Дуплянка 19",
+  "street" : "Зеленая улица 8",
+  "city" : "Краков",
+  "zipcode" : 906365,
+  "floors" : 1,
+  "year" : 1946,
+  "parking" : true,
+  "prob_price" : 597807758,
+  "views" : 75592
+}, {
+  "name" : "Страусятник 25",
+  "street" : "Осенняя улица 63",
+  "city" : "Бишкек",
+  "zipcode" : 990002,
+  "floors" : 1,
+  "year" : 1857,
+  "parking" : false,
+  "prob_price" : 649250952,
+  "views" : 65045
+}, {
+  "name" : "Ангар 18",
+  "street" : "Юбилейная улица 6",
+  "city" : "Луго",
+  "zipcode" : 928693,
+  "floors" : 1,
+  "year" : 1993,
+  "parking" : false,
+  "prob_price" : 546547269,
+  "views" : 18991
+}, {
+  "name" : "Гнездо 16",
+  "street" : "Садовая улица 42",
+  "city" : "Фигерас",
+  "zipcode" : 254796,
+  "floors" : 1,
+  "year" : 1685,
+  "parking" : false,
+  "prob_price" : 834646307,
+  "views" : 78095
+}, {
+  "name" : "Школа 1",
+  "street" : "Солнечная улица 85",
+  "city" : "Вильявисиоса",
+  "zipcode" : 512222,
+  "floors" : 1,
+  "year" : 1643,
+  "parking" : true,
+  "prob_price" : 704426559,
+  "views" : 78682
+}, {
+  "name" : "Больница 70",
+  "street" : "Морская улица 20",
+  "city" : "Артейхо",
+  "zipcode" : 406592,
+  "floors" : 1,
+  "year" : 1706,
+  "parking" : false,
+  "prob_price" : 896998578,
+  "views" : 57443
+}, {
+  "name" : "Страусятник 25",
+  "street" : "Осенняя улица 63",
+  "city" : "Бишкек",
+  "zipcode" : 990002,
+  "floors" : 1,
+  "year" : 1857,
+  "parking" : false,
+  "prob_price" : 649250952,
+  "views" : 65045
+}, {
+  "name" : "Дуплянка 19",
+  "street" : "Зеленая улица 8",
+  "city" : "Краков",
+  "zipcode" : 906365,
+  "floors" : 1,
+  "year" : 1946,
+  "parking" : true,
+  "prob_price" : 597807758,
+  "views" : 75592
+}, {
+  "name" : "Школа 1",
+  "street" : "Солнечная улица 85",
+  "city" : "Вильявисиоса",
+  "zipcode" : 512222,
+  "floors" : 1,
+  "year" : 1643,
+  "parking" : true,
+  "prob_price" : 704426559,
+  "views" : 78682
+}, {
+  "name" : "Страусятник 25",
+  "street" : "Осенняя улица 63",
+  "city" : "Бишкек",
+  "zipcode" : 990002,
+  "floors" : 1,
+  "year" : 1857,
+  "parking" : false,
+  "prob_price" : 649250952,
+  "views" : 65045
+}, {
+  "name" : "Дуплянка 19",
+  "street" : "Зеленая улица 8",
+  "city" : "Краков",
+  "zipcode" : 906365,
+  "floors" : 1,
+  "year" : 1946,
+  "parking" : true,
+  "prob_price" : 597807758,
+  "views" : 75592
+}, {
+  "name" : "Ангар 18",
+  "street" : "Юбилейная улица 6",
+  "city" : "Луго",
+  "zipcode" : 928693,
+  "floors" : 1,
+  "year" : 1993,
+  "parking" : false,
+  "prob_price" : 546547269,
+  "views" : 18991
+}, {
+  "name" : "Гнездо 16",
+  "street" : "Садовая улица 42",
+  "city" : "Фигерас",
+  "zipcode" : 254796,
+  "floors" : 1,
+  "year" : 1685,
+  "parking" : false,
+  "prob_price" : 834646307,
+  "views" : 78095
+}, {
+  "name" : "Ресторан 74",
+  "street" : "Спортивная улица 73",
+  "city" : "Алькала-де-Энарес",
+  "zipcode" : 562422,
+  "floors" : 1,
+  "year" : 1798,
+  "parking" : false,
+  "prob_price" : 140272894,
+  "views" : 36109
+}, {
+  "name" : "Ангар 18",
+  "street" : "Юбилейная улица 6",
+  "city" : "Луго",
+  "zipcode" : 928693,
+  "floors" : 1,
+  "year" : 1993,
+  "parking" : false,
+  "prob_price" : 546547269,
+  "views" : 18991
+}, {
+  "name" : "Больница 70",
+  "street" : "Морская улица 20",
+  "city" : "Артейхо",
+  "zipcode" : 406592,
+  "floors" : 1,
+  "year" : 1706,
+  "parking" : false,
+  "prob_price" : 896998578,
+  "views" : 57443
+}, {
+  "name" : "Ресторан 74",
+  "street" : "Спортивная улица 73",
+  "city" : "Алькала-де-Энарес",
+  "zipcode" : 562422,
+  "floors" : 1,
+  "year" : 1798,
+  "parking" : false,
+  "prob_price" : 140272894,
+  "views" : 36109
+}, {
+  "name" : "Школа 1",
+  "street" : "Солнечная улица 85",
+  "city" : "Вильявисиоса",
+  "zipcode" : 512222,
+  "floors" : 1,
+  "year" : 1643,
+  "parking" : true,
+  "prob_price" : 704426559,
+  "views" : 78682
+}, {
+  "name" : "Страусятник 25",
+  "street" : "Осенняя улица 63",
+  "city" : "Бишкек",
+  "zipcode" : 990002,
+  "floors" : 1,
+  "year" : 1857,
+  "parking" : false,
+  "prob_price" : 649250952,
+  "views" : 65045
+}, {
+  "name" : "Гнездо 16",
+  "street" : "Садовая улица 42",
+  "city" : "Фигерас",
+  "zipcode" : 254796,
+  "floors" : 1,
+  "year" : 1685,
+  "parking" : false,
+  "prob_price" : 834646307,
+  "views" : 78095
+}, {
+  "name" : "Ресторан 74",
+  "street" : "Спортивная улица 73",
+  "city" : "Алькала-де-Энарес",
+  "zipcode" : 562422,
+  "floors" : 1,
+  "year" : 1798,
+  "parking" : false,
+  "prob_price" : 140272894,
+  "views" : 36109
+}, {
+  "name" : "Больница 70",
+  "street" : "Морская улица 20",
+  "city" : "Артейхо",
+  "zipcode" : 406592,
+  "floors" : 1,
+  "year" : 1706,
+  "parking" : false,
+  "prob_price" : 896998578,
+  "views" : 57443
+}, {
+  "name" : "Гнездо 16",
+  "street" : "Садовая улица 42",
+  "city" : "Фигерас",
+  "zipcode" : 254796,
+  "floors" : 1,
+  "year" : 1685,
+  "parking" : false,
+  "prob_price" : 834646307,
+  "views" : 78095
+} ]
